@@ -141,3 +141,5 @@ Emoji:
 Markup : Code appears between colors :EMOJICODE:
 :mask:
 652115053 Hunsawut Hanworawirun TAWANN give me your Valo skin
+
+Tatchapol Wangsunton 652115020, I am KK and i need help.
